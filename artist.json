@@ -1,0 +1,11 @@
+{
+  "id": "seo-analyzer",
+  "name": "SEO Analizci",
+  "version": "1.0.0",
+  "type": "skill",
+  "author": "developer@artist-pro.com",
+  "price": 9.99,
+  "description": "Web sitenizin SEO performansini analiz eder.",
+  "tags": ["seo", "web", "analiz"],
+  "requirements": { "engine": ">=1.0.0", "memory_mb": 64 }
+}
